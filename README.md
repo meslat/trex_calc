@@ -1,4 +1,4 @@
-<h1 align="center">My ferst project in php</h1>
+<h1 align="center">My first project in php</h1>
 <h3 align="center">a simple calc to trex</h3>
 
 - in the wep [trex calc](https://muslet.xo.je/)
